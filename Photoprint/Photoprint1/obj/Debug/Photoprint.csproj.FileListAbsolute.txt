@@ -1,0 +1,6 @@
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\bin\Debug\Photolab.exe.config
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\bin\Debug\Photolab.exe
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\bin\Debug\Photolab.pdb
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\obj\Debug\Photoprint.csprojAssemblyReference.cache
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\obj\Debug\Photolab.exe
+C:\Users\luisb\Desktop\git\Photoprint\LA_Assign1\obj\Debug\Photolab.pdb

@@ -1,0 +1,26 @@
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csprojAssemblyReference.cache
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe.config
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.pdb
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.exe
+C:\Users\luise\Desktop\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.pdb
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe.config
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.pdb
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csprojAssemblyReference.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe.config
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\bin\Debug\LA_Assign1.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csprojAssemblyReference.cache
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\Assignment\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.pdb
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\bin\Debug\Photolab.exe.config
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\bin\Debug\Photolab.exe
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\bin\Debug\Photolab.pdb
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\obj\Debug\LA_Assign1.csprojAssemblyReference.cache
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\obj\Debug\Photolab.exe
+C:\Users\luisb\Desktop\git\LA_Assign1\LA_Assign1\obj\Debug\Photolab.pdb
