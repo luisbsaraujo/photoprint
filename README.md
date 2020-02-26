@@ -1,5 +1,5 @@
 # photoprint
-C# Console App that simulates photo print orders
+A C# Console App that simulates photo print orders
 
 # Instructions
 This is a simple photolab console program that prepare orders and calculate the total.
